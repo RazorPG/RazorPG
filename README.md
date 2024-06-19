@@ -1,6 +1,6 @@
 # Halo Semua🖐️
 
-<img style="margin = 12rem;" src="https://yt3.googleusercontent.com/ytc/AIf8zZRQbHUEgW-IdC6wMtRNTnDOYHIBTPobj3ZpMGtSMQ=s176-c-k-c0x00ffffff-no-rj"/><br>
+<img style="margin = 12rem;" src="Untitled-2.png"/><br>
 Perkenalkan nama saya **Rafid Hilmi** <br>
 Saya seorang **Mahasiswa** dari UNP😎 <br>
 Ini sedikit sertifikat yang saya dapatkan [dari dicoding](https://www.dicoding.com/certificates/GRX52M2M2X0M)🤌<br>
