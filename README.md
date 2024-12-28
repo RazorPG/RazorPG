@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm studen on University Padang State<br>i'm normal people<br>i'm introvert<br>i'm interesting anime & manga
+i'm student on University Padang State<br>i'm normal people<br>i'm introvert<br>i'm interesting anime & manga
 
 <img style="margin = 12rem;" src="Untitled-2.png"/><br>
 
