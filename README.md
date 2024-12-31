@@ -1,6 +1,7 @@
 # 💫 About Me:
 🧟‍♂️I'm Rafid Hilmi, an Informatics student at Padang State University.  
-👀I'm passionate about technology, anime, and manga. As an introvert, I find my creativity in coding and designing solutions to real-world problems.  
+👀I'm passionate about technology, anime, and manga. 
+🫠As an introvert, i find my creativity in coding and designing solutions to real-world problems.  
 
 <img style="margin = 12rem;" src="Untitled-2.png"/><br>
 
@@ -12,15 +13,14 @@
 
 # 📊 GitHub Stats:
 <picture align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RazorPG&theme=neon&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorPG&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-  <img height="30" alt="stat">
+  <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=RazorPG&theme=neon&hide_border=true" alt="GitHub Streak"/>
+  <img height="180" width="auto" alt="github stat">
 </picture>
-
-</div>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorPG&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+  <img height="180" width="auto" alt="languge">
+</picture>
+  
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RazorPG&icon=0&color=0)](https://visitcount.itsvg.in)
