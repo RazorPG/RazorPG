@@ -17,7 +17,7 @@
 </picture>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RazorPG&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
-  <img height="180" width="auto" alt="languge">
+  <img height="180" width="auto" alt="language">
 </picture>  
 </div>
   
