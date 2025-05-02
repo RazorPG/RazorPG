@@ -1,5 +1,7 @@
 # 💫 About Me:
-🧟‍♂️I'm Rafid Hilmi, an Informatics student at Padang State University.</br>👀I'm passionate about technology, anime, and manga.</br>🫠As an introvert, i find my creativity in coding and designing solutions to real-world problems.  
+ - 🧟‍♂️**I'm Rafid Hilmi, an Informatics student at Padang State University.**
+ - 👀**I'm passionate about technology, anime, and manga.**
+ - 🫠**As an introvert, i find my creativity in coding and designing solutions to real-world problems.**  
 
 <img style="margin = 12rem;" src="Untitled-2.png"/><br>
 
@@ -22,7 +24,5 @@
   <img height="180" width="auto" alt="language">
 </picture>  
 </div>
-  
-
----
+ 
 [![](https://visitcount.itsvg.in/api?id=RazorPG&icon=0&color=0)](https://visitcount.itsvg.in)
